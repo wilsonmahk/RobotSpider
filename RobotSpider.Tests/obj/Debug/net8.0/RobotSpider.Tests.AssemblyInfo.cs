@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RobotSpider.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cb8f9bdb13fba3f1372a0ded35378c899d4169d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RobotSpider.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RobotSpider.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
